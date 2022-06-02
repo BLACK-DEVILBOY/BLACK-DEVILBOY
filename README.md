@@ -14,10 +14,10 @@
 <img src="https://media.giphy.com/media/UO3ciqKzpEysXdRuzM/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
  <p align="center">
-<a href="#"><img title="V4MP1R3" src="https://img.shields.io/badge/V4MP1R3-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BLACK-DEVILBOY" src="https://img.shields.io/badge/V4MP1R3-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://t.me/KP51107"><img title="CONTACT" src="https://img.shields.io/badge/TELEGRAM-CONTACT-/?color=blue&style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/NL_MP4"><img title="CONTACT" src="https://img.shields.io/badge/TELEGRAM-CONTACT-/?color=blue&style=for-the-badge&logo=Telegram"></a>
 </p>
 </div>
 
@@ -35,6 +35,6 @@
 
 ----
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TG-V4MP1R3&show_icons=true&theme=nightowl" alt="TG-V4MP1R3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TG-V4MP1R3&show_icons=true&theme=nightowl" alt="BLACK-DEVILBOY" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TG-V4MP1R3&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="TG-V4MP1R3"/></p></a><br> 
